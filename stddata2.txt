@@ -1,0 +1,10 @@
+2098 Arthur Morgan 2.32 History
+1092 Dutch VanderLind 2.76 History
+2999 John Marston 2.02 Geography
+1132 Sharon Needles 3.44 Art
+1833 Oscar Betoa 3.95 CS
+2330 Fred Wagdalt 4.00 Engineering
+1020 Billy Mays 1.99 Advertising
+1206 Clark Hoefling 3.54 Law
+1882 Billie Cole 3.23 Hospitality
+1003 Chris Bobick 3.76 CS

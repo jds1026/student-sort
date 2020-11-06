@@ -1,0 +1,48 @@
+Array 1 (unsorted)
+------------------
+1001 Jake McBroom 3.6 English
+1032 Rachel Burke 2.95 Math
+2007 Troy Baker 3.79 Math
+2139 Sam Smith 3.3 Biology
+2078 Nathan Drake 4 Geology
+2001 Chloe Frazier 3.65 Geology
+1002 Sonny Stitt 3.27 Music
+1998 Ivy Winters 2.45 Psychology
+1709 Jim Halpert 3.37 Business
+2030 Deckard Cain 3.89 Economics
+
+Array 2 (unsorted)
+------------------
+2098 Arthur Morgan 2.32 History
+1092 Dutch VanderLind 2.76 History
+2999 John Marston 2.02 Geography
+1132 Sharon Needles 3.44 Art
+1833 Oscar Betoa 3.95 CS
+2330 Fred Wagdalt 4 Engineering
+1020 Billy Mays 1.99 Advertising
+1206 Clark Hoefling 3.54 Law
+1882 Billie Cole 3.23 Hospitality
+1003 Chris Bobick 3.76 CS
+
+Array 3 (sorted)
+------------------
+1001 Jake McBroom 3.6 English
+1002 Sonny Stitt 3.27 Music
+1003 Chris Bobick 3.76 CS
+1020 Billy Mays 1.99 Advertising
+1032 Rachel Burke 2.95 Math
+1092 Dutch VanderLind 2.76 History
+1132 Sharon Needles 3.44 Art
+1206 Clark Hoefling 3.54 Law
+1709 Jim Halpert 3.37 Business
+1833 Oscar Betoa 3.95 CS
+1882 Billie Cole 3.23 Hospitality
+1998 Ivy Winters 2.45 Psychology
+2001 Chloe Frazier 3.65 Geology
+2007 Troy Baker 3.79 Math
+2030 Deckard Cain 3.89 Economics
+2078 Nathan Drake 4 Geology
+2098 Arthur Morgan 2.32 History
+2139 Sam Smith 3.3 Biology
+2330 Fred Wagdalt 4 Engineering
+2999 John Marston 2.02 Geography

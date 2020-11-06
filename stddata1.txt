@@ -1,0 +1,10 @@
+1001 Jake McBroom 3.60 English
+1032 Rachel Burke 2.95 Math
+2007 Troy Baker 3.79 Math
+2139 Sam Smith 3.30 Biology
+2078 Nathan Drake 4.00 Geology
+2001 Chloe Frazier 3.65 Geology
+1002 Sonny Stitt 3.27 Music
+1998 Ivy Winters 2.45 Psychology
+1709 Jim Halpert 3.37 Business
+2030 Deckard Cain 3.89 Economics
